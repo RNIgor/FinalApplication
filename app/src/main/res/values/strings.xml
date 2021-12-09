@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalApplication</string>
+    <string name="recipes">RECIPES</string>
+    <string name="favorites">FAVORITES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="very_tasty_recipes">Very tasty recipes</string>
+    <string name="my_favorite_recipes">My favorite recipes</string>
+    <string name="about">About...</string>
+    <string name="abouttext">\u0009\u0009\u0009\u0009Hello, friends. We are a group of young developers who have begun their difficult journey into the world of Android and Kotlin. You can view all our new projects on our website. To go, click on the button at the bottom of this screen.</string>
+    <string name="text_to_site_button">Ho-ho-ho. To WebSite lets go!</string>
+</resources>

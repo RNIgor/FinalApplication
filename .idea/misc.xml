@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/drawable/ic_enigma.xml" value="0.34322916666666664" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/drawable/ic_hate.xml" value="0.34322916666666664" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/activity_main.xml" value="0.4895833333333333" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/fragment_about.xml" value="0.32708333333333334" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/fragment_favorites_recipes_list.xml" value="0.4895833333333333" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/fragment_full_recipes_list.xml" value="0.4895833333333333" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/fragment_text_recipe.xml" value="0.546875" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/layout/recipe_list_item.xml" value="0.4895833333333333" />
+        <entry key="..\:/Android/AndroidProjects/FinalApplication/app/src/main/res/menu/bottom_menu.xml" value="0.546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
